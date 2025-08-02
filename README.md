@@ -35,5 +35,3 @@
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedeo95&show_icons=true&locale=en" alt="amedeo95" /></p>
