@@ -9,8 +9,6 @@ Graduated in Economics from the University of Genoa, I have developed a strong a
 
 - 📫 How to reach me **amedeoperi95@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/amedeoperi](https://www.linkedin.com/in/amedeoperi)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/amedeoperi" target="blank">
