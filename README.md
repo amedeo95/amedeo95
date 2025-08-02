@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Business Intelligence & Data Analyst from Italy</h3>
 
 <p align="left">
-Graduated in Economics from the University of Genoa, I have developed a strong analytical mindset and a deep interest in data. My focus is on delivering reliable, business-oriented reports that support strategic decision-making.
+Graduated in Economics from the University of Genoa, I have developed a strong analytical mindset and a deep interest in data.
 </p>
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/amedeoperi95](https://www.datascienceportfol.io/amedeoperi95)
